@@ -6,7 +6,7 @@ This is an **Excel-based data analysis and visualization project** focused on ho
 
 Here’s a preview of the Excel-based emergency room analysis dashboard:
 
-<a href="https://github.com/Mystica77/Hospital_Emergency_Room_Analysis_Dashboard/blob/main/Hospital%20Emergency%20Room%20Analysis%20Dashboard.png">View Dashboard</a>
+<a href="https://github.com/Mystica77/Hospital_Emergency_Room_Analysis_Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard%20Analysis.png">View Dashboard</a>
 
 ...
 ## 📊 Key Features
